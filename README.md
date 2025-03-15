@@ -33,7 +33,7 @@ A modern web application for tracking personal finances and budgeting.
    - Windows: `venv\Scripts\activate`
    - macOS/Linux: `source venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
-5. Create a `.env` file with your configurations (see `.env.example`)
+5. Create a `.env` file with your configurations
 6. Run the application: `python run.py`
 
 ### Frontend Setup
